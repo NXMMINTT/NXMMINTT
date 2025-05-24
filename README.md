@@ -36,9 +36,8 @@ I also manage my time well, balancing productivity and rest to stay focused and 
 
 ---
 
-### 🐍 GitHub Contribution Snake
+![GitHub Snake](https://github.com/NXMMINTT/NXMMINTT/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/NXMMINTT/NXMMINTT/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -52,7 +51,6 @@ I also manage my time well, balancing productivity and rest to stay focused and 
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NXMMINTT&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
