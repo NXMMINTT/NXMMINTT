@@ -29,7 +29,7 @@ I also manage my time well, balancing productivity and rest to stay focused and 
 
 ### 💻 Tech Stack
 - HTML / CSS / JavaScript
-- Python
+- Python /php /C++ / C
 - Figma / Canva
 
 ### 💻 Programming Languages
