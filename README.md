@@ -11,12 +11,6 @@ When I'm not coding, you’ll find me designing cute stuff on Figma or making di
 🌷 I'm currently learning web development and loving every step of it!  
 💻 Passionate about front-end design and creating beautiful user experiences.  
 🎨 Also dabble in digital art and UI/UX design.
----
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Let's+learn+and+grow+together!+%F0%9F%8C%9F" />
-</p>
 
 
 ### 📫 Connect with Me
@@ -50,3 +44,6 @@ When I'm not coding, you’ll find me designing cute stuff on Figma or making di
 
 📫 How to reach me: [thidarat.workk@gmail.com]  
 ✨ Let’s connect and build something fun together! 💖
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Let's+learn+and+grow+together!+%F0%9F%8C%9F" />
+</p>
