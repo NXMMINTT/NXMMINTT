@@ -4,16 +4,17 @@
 ---
 
 ### 🌟 About Me
-Hi there! I'm **MINDMINT** — a curious and creative developer who loves turning ideas into real, interactive experiences on the web.
+### 👋 Hello! I'm Thidarat Tarasi
 
-Right now, I’m focused on learning **frontend development**, especially HTML, CSS, and JavaScript. I enjoy building clean and friendly interfaces that make users smile ✨
+I'm a student majoring in **Computer Engineering and Robotics** at **Bangkok University**.  
+I have a strong passion for **UI/UX design** and **web development**.
 
-Besides coding, I’m also passionate about **design and art**.  
-You’ll often find me on **Figma**, creating cute UI mockups or exploring digital illustration 🎨
+I’m always looking to improve my skills by exploring new tools, techniques, and ideas.  
+I enjoy working in teams, taking on new challenges, and constantly learning to become a more professional developer.
 
-Lately, I’ve started learning about **backend development** too — diving into databases, APIs, and how everything connects together behind the scenes. My goal is to become a **Full-Stack Developer** who can build complete, meaningful web applications from scratch.
+I'm excited to bring my knowledge into real-world projects and contribute to building efficient, user-friendly websites.  
+I also manage my time well, balancing productivity and rest to stay focused and energized.
 
-Let’s keep learning and creating cool things together! 🚀💖
 
 
 <h2 align="center">📫 Connect with Me</h2>
