@@ -16,8 +16,7 @@ Lately, I’ve started learning about **backend development** too — diving int
 Let’s keep learning and creating cool things together! 🚀💖
 
 
-
-### <h2 align="center"📫 Connect with Me </h2>
+<h2 align="center">📫 Connect with Me</h2>
 
 
 <p align="center">
