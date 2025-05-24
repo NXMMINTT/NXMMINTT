@@ -3,7 +3,6 @@
 
 ---
 
-### 🌟 About Me
 ### 👋 Hello! I'm Thidarat Tarasi
 
 I'm a student majoring in **Computer Engineering and Robotics** at **Bangkok University**.  
