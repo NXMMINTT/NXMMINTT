@@ -23,14 +23,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
-### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-📫 How to reach me: [your@email.com]  
+📫 How to reach me: [thidarat.workk@gmail.com]  
 ✨ Let’s connect and build something fun together! 💖
