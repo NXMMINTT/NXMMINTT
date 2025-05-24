@@ -4,12 +4,17 @@
 ---
 
 ### 🌟 About Me
-Hi there! I'm MINDMINT— a curious and creative developer who loves turning ideas into real, interactive experiences on the web.
+Hi there! I'm **MINDMINT** — a curious and creative developer who loves turning ideas into real, interactive experiences on the web.
+
 Right now, I’m focused on learning **frontend development**, especially HTML, CSS, and JavaScript. I enjoy building clean and friendly interfaces that make users smile ✨
+
 Besides coding, I’m also passionate about **design and art**.  
 You’ll often find me on **Figma**, creating cute UI mockups or exploring digital illustration 🎨
+
 Lately, I’ve started learning about **backend development** too — diving into databases, APIs, and how everything connects together behind the scenes. My goal is to become a **Full-Stack Developer** who can build complete, meaningful web applications from scratch.
+
 Let’s keep learning and creating cool things together! 🚀💖
+
 
 
 ### 📫 Connect with Me
