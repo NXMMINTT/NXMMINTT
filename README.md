@@ -19,7 +19,7 @@ Let’s keep learning and creating cool things together! 🚀💖
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:thidarat.workk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://YOUR-PORTFOLIO-LINK.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -42,9 +42,7 @@ Let’s keep learning and creating cool things together! 🚀💖
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-NXMMINTT&theme=dark&background=000000)](https://git.io/streak-stats)
----
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 📫 How to reach me: [thidarat.workk@gmail.com]  
 ✨ Let’s connect and build something fun together! 💖
