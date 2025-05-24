@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm [Your Name]! ✨</h1>
+<h1 align="center">✨ Hi there, I'm MINDMINT! ✨</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </p>
