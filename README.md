@@ -50,6 +50,9 @@ I also manage my time well, balancing productivity and rest to stay focused and 
 </p>
 
 
+![GitHub Snake](https://github.com/NXMMINTT/NXMMINTT/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Let's+learn+and+grow+together!+%F0%9F%8C%9F" />
