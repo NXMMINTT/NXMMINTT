@@ -1,6 +1,5 @@
 <h1 align="center">✨ Hi there, I'm MINDMINT! ✨</h1>
 
-
 ---
 
 ### 👋 Hello! I'm Thidarat Tarasi
@@ -14,22 +13,11 @@ I enjoy working in teams, taking on new challenges, and constantly learning to b
 I'm excited to bring my knowledge into real-world projects and contribute to building efficient, user-friendly websites.  
 I also manage my time well, balancing productivity and rest to stay focused and energized.
 
-
-
-<h2 align="center">📫 Connect with Me</h2>
-
-
-<p align="center">
-  <a href="mailto:thidarat.workk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
 ---
 
 ### 💻 Tech Stack
 - HTML / CSS / JavaScript
-- Python /php /C++ / C
+- Python / PHP / C++ / C
 - Figma / Canva
 
 ### 💻 Programming Languages
@@ -46,14 +34,28 @@ I also manage my time well, balancing productivity and rest to stay focused and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<br>
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🐍 GitHub Contribution Snake
 
-<br>
+![snake gif](https://github.com/NXMMINTT/NXMMINTT/blob/output/github-contribution-grid-snake.svg)
 
-📫 How to reach me: [thidarat.workk@gmail.com]  
-✨ Let’s connect and build something fun together! 💖
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:thidarat.workk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NXMMINTT&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Let's+learn+and+grow+together!+%F0%9F%8C%9F" />
 </p>
