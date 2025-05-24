@@ -46,10 +46,11 @@ Let’s keep learning and creating cool things together! 🚀💖
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
-
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
 
 📫 How to reach me: [thidarat.workk@gmail.com]  
 ✨ Let’s connect and build something fun together! 💖
