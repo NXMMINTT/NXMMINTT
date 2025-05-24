@@ -11,16 +11,18 @@
 
 ### 💻 Tech Stack
 - HTML / CSS / JavaScript
-- React / Tailwind CSS
 - Python (just a little!)
 - Figma / Canva
- ### 💻 Programming Languages
 
-- 🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- 💠 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-- 🔘 ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
-- ☕ ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- 🐘 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 
 ---
