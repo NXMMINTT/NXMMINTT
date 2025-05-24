@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi there, I'm MINDMINT! ✨</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://cdn.discordapp.com/attachments/1290180243692326912/1375927248972157068/368327517_1357927865149880_1397803145650802471_n.jpg?ex=6833779b&is=6832261b&hm=a1d6fb57a6f9cd12918277449e279da3928d3b451a1cbeb902109873b10ff35d&)" width="200">
 </p>
 
 🌷 I'm currently learning web development and loving every step of it!  
@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack
 - HTML / CSS / JavaScript
-- Python (just a little!)
+- Python
 - Figma / Canva
 
 ### 💻 Programming Languages
