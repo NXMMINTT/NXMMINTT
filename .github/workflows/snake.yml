@@ -16,6 +16,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+          snake_color: '#F9A8D4'            # งูชมพูพาสเทล
+          background_color: '#FFF1F2'       # พื้นหลังชมพูอ่อนมาก
+          color_snake: '#FBCFE8'            # สีพาสเทลอ่อนกว่างู
+          output_mode: svg
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
