@@ -36,7 +36,7 @@ I also manage my time well, balancing productivity and rest to stay focused and 
 
 ---
 
-![GitHub Snake](https://github.com/NXMMINTT/NXMMINTT/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ---
@@ -49,10 +49,7 @@ I also manage my time well, balancing productivity and rest to stay focused and 
   <a href="https://YOUR-PORTFOLIO-LINK.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+;Let's+learn+and+grow+together!+%F0%9F%8C%9F" />
