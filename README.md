@@ -10,8 +10,6 @@ I have a strong passion for **UI/UX design** and **web development**.
 I’m always looking to improve my skills by exploring new tools, techniques, and ideas.  
 I enjoy working in teams, taking on new challenges, and constantly learning to become a more professional developer.
 
-I'm excited to bring my knowledge into real-world projects and contribute to building efficient, user-friendly websites.  
-I also manage my time well, balancing productivity and rest to stay focused and energized.
 
 ---
 
