@@ -1,23 +1,7 @@
-<!-- แบบที่ 6: ผสม — แบนเนอร์ + ตัวพิมพ์ใหญ่แบบ innng / โค้ดแนะนำตัว + Tech Stack + กราฟแบบ CHANXYII -->
-
-<!-- ① แบนเนอร์ (innng) -->
-<p align="center">
-  <img src="assets/banner.jpg" width="100%" />
-</p>
-
 <!-- ② ตัวพิมพ์ใหญ่ ไม่วนซ้ำ (innng) + สีชมพู (CHANXYII) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=F78DA7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hello+hello+%E2%99%A1;I'm+YOUR+NAME%2C+AI+%26+Data+Science+student+%E0%BC%98%E2%8B%86" />
 </p>
-
-<!-- ③ กล่องแนะนำตัวสั้นๆ ด้วยอีโมจิ (innng) -->
-```
-🎓 Year X @ Your University • AI Engineering & Data Science
-💻 Python • Machine Learning • Data Engineering • UX/UI
-📖 Learning: Deep Learning • MLOps
-🎮 Music • Games • Anime • Code • Art
-🐾 Your pet / fun fact about you
-```
 
 <!-- ④ GIF เล็กตรงกลาง (innng) -->
 <p align="center">
