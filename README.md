@@ -34,17 +34,25 @@ class NXMMINTT:
 
 ## Tech Stack .ᐟ
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp&theme=light" />
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp&theme=light" />
+</p>
 
-#### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=light" />
+<h4 align="center">Frameworks & Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=light" />
+</p>
 
-#### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=light" />
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=light" />
+</p>
 
-#### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux&theme=light" />
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux&theme=light" />
+</p>
 
 ---
 
