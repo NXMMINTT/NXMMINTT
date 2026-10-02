@@ -48,10 +48,10 @@ class NXMMINTT:
 
 ---
 
-## GitHub Activity ✦
+## GitHub Streak ✦
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXMMINTT&bg_color=00000000&color=F78DA7&line=F78DA7&point=C38FD9&area=true&area_color=F78DA7&hide_border=true&radius=16" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=NXMMINTT&hide_border=true&background=FFF0F6&ring=F78DA7&fire=C38FD9&currStreakLabel=F78DA7&sideLabels=6B5B7B&dates=6B5B7B&currStreakNum=6B5B7B&sideNums=6B5B7B" />
 </p>
 
 ---
